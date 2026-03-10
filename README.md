@@ -36,7 +36,7 @@ Rocket Mortgage, LLC 	 Detroit, MI<br>
     • Provided production support and continuous improvement for supported applications, ensuring scalability and maintainability<br>
     • Implemented secure APIs across multiple instances and contributed to service-oriented architecture (SOA) initiatives within the organization<br>
     • Achievement: Created software application for inventorying promissory notes; automated manifest generation<br>
-    • Achievement: Enhanced Tier-1 application performance through code refactoring, authentication token caching, and stored procedure optimization, significantly reducing system processing time and request latency.<br><br>
+    • Achievement: Enhanced Tier-1 application performance through code refactoring, Auth0 token caching, and SQL Server stored procedure optimization, significantly reducing system processing time and request latency.<br><br>
 **Executive Vendor Analyst**, 	 07/2011 to 10/2018<br> 
 Rocket Mortgage, LLC 	 Detroit, MI<br> 
     • Task: Verified mortgage documentation for accuracy and compliance, focused on attention to detail<br>
